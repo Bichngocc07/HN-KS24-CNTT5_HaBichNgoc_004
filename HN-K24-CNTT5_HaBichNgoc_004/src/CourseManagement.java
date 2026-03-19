@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class CourseManagement {
     public static void Main(String[] args){
         Scanner sc = new Scanner(System.in);
         int choice;
